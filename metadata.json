@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Dashboard Converter",
+  "description": "An AI-powered tool that allows users to upload datasets (CSV, Excel, JSON) and automatically generates interactive dashboards with charts and tables. Customize, save, and export your data visualizations with ease.",
+  "requestFramePermissions": []
+}
